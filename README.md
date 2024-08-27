@@ -1,5 +1,3 @@
-# Danish Ali Malik
-
 ### Certified Full-Stack WordPress Developer with 10+ Years of Experience
 
 Hi, I'm Danish Ali Malik, a highly experienced full-stack WordPress developer. Over the past decade, I've specialized in crafting bespoke WordPress themes and plugins that are actively used by thousands of sites. My commitment is to deliver high-quality, optimized, and scalable solutions tailored to client needs.
