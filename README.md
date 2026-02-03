@@ -62,6 +62,7 @@ Beyond my technical expertise, I’m deeply involved in the WordPress community 
 - **GitHub**: [github.com/danishalimalik](https://github.com/danishalimalik)  
 - **LinkedIn**: [linkedin.com/in/danish-ali-malik](https://www.linkedin.com/in/danish-ali-malik/)  
 - **Codeable Profile**: [codeable.io/developers/danish-ali-malik](https://www.codeable.io/developers/danish-ali-malik/)
+- **Toptal Profile**: [toptal.com/developers/resume/danish-ali-malik](https://www.toptal.com/developers/resume/danish-ali-malik)
 
 ---
 
